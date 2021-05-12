@@ -5,3 +5,5 @@ The Hare was a proud animal, fast and sleek, and well aware of his speedy talent
 He would take delight in taunting the humble Tortoise. 
 One bright morning, the Tortoise was plodding along at his usual pace.
 Suddenly, bounding past him was the Hare!
+The story’s moral is supposed to teach you about how hard work and a steady effort can overcome natural talent.
+In the end, it is not the speedy hare that wins the race.
